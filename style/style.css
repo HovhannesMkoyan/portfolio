@@ -43,7 +43,6 @@ section {display: inline-block; position: relative; width: 100%; min-height: 100
 
 
 /**************************************     WORK     *************************************************/
-#work {margin-bottom: 100px !important}
 #work .section-heading h1 {margin: 0; margin-left: 100px; margin-top: 70px;}
 .work-container {position: relative; border: 1px solid lightgrey; width: 25%; height: 300px; background-repeat: no-repeat;  background-size: 200% 100%; background-position: top center; transition: all .2s linear; cursor: pointer;}
 .work-container:first-child {margin: 0 6.25%}
